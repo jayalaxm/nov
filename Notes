@@ -1,0 +1,14 @@
+Azure Portal URL :
+
+https://portal.azure.com/
+
+
+Connecting to Ubuntu machine :
+
+cd /Users/ranjitwoonna/Desktop/Devopstraining
+
+ssh -i UbuntuVM_key.pem azureuser@20.9.55.1
+
+https://portal.azure.com/#@jayalaxmitanguduoutlook788.onmicrosoft.com/resource/subscriptions/335f8676-cfe3-4fab-b132-b09e20f583ce/resourcegroups/Allresources/providers/Microsoft.Compute/virtualMachines/UbuntuVM/connect
+
+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
